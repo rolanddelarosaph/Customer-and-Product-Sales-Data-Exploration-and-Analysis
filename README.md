@@ -1,11 +1,11 @@
-# 🧠 Customer and Product Sales Exploratory Data Analysis
+# Customer and Product Sales - Data Exploration and Basic Analysis
 
-## 📘 Project Overview  
+##  Project Overview  
 An exploratory data analysis project that builds a **retail sales data warehouse** integrating customer, product, and sales data. Using **SQL**, I designed structured tables, imported data from CSV files, and conducted analyses to uncover key business insights.
 
 ---
 
-## 🏗️ Project Workflow  
+##  Project Workflow  
 
 1. **Database Creation**  
    - Built a new database named `DataWarehouseAnalytics`.  
@@ -26,7 +26,7 @@ An exploratory data analysis project that builds a **retail sales data warehouse
 
 ---
 
-## 📊 Key Insights Generated  
+##  Key Insights Generated  
 - Total and average sales metrics  
 - Distribution of customers by country and gender  
 - Top-selling products and highest-spending customers  
@@ -35,7 +35,7 @@ An exploratory data analysis project that builds a **retail sales data warehouse
 
 ---
 
-## ⚙️ Tools & Technologies  
+##  Tools & Technologies  
 - **Azure Data Studio** (SQL environment)  
 - **Docker + Azure SQL Edge** (database engine)  
 - **CSV datasets** as data sources  
